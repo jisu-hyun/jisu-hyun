@@ -23,9 +23,7 @@ Matplotlib · Seaborn · Recharts
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisu-hyun&layout=compact&theme=default" height="150">
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisu-hyun&layout=compact&theme=default&hide_border=true&langs_count=8&card_width=600">
 
 ---
 
