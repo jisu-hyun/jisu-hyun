@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Jisu 👋</h1>
 
 
----
 
 ### 🛠 Skills
 
