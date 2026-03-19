@@ -18,24 +18,12 @@ React · Next.js · TypeScript · Leaflet
 **Visualization**  
 Matplotlib · Seaborn · Recharts  
 
----
-
-### 📌 Projects
-
-**Suwon Clothing Bin Map**  
-Web service that visualizes public recycling facility locations using open data.  
-Built with React and Leaflet.
-
-**Urban Tree Data Analysis**  
-Data analysis project exploring street tree data related to walkability and urban heat.  
-Includes spatial processing and visualization.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jisu-hyun&show_icons=true&theme=default" height="150">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisu-hyun&layout=compact&theme=default" height="150">
 </p>
 
