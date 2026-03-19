@@ -1,42 +1,56 @@
-## Hi, I'm Jisu
+<h1 align="center">Hi, I'm Jisu 👋</h1>
 
-I studied software engineering and have been building skills in data analysis and web development.  
-Recently, I have been working on projects that use urban and public data to create practical services.
-
-I am particularly interested in spatial data, user-focused web services, and solving real-world problems with data.
-
----
-
-### Skills
-
-- Python, Pandas, SQL  
-- React, Next.js, TypeScript  
-- GeoPandas, Leaflet, spatial data processing  
-- Data visualization and dashboard development  
+<p align="center">
+Data-Driven Developer · Spatial Data · Web Services
+</p>
 
 ---
 
-### Projects
+### 👩‍💻 About Me
+
+I work on data analysis and web-based projects using urban and public datasets.  
+My focus is on building simple and practical data services that help understand real-world environments.
+
+I have experience working with spatial data, interactive maps, and data visualization tools.
+
+---
+
+### 🛠 Skills
+
+**Data & Analysis**  
+Python · Pandas · SQL · GeoPandas · NumPy  
+
+**Web Development**  
+React · Next.js · TypeScript · Leaflet  
+
+**Visualization**  
+Matplotlib · Seaborn · Recharts  
+
+---
+
+### 📌 Projects
 
 **Suwon Clothing Bin Map**  
-A small web project that visualizes public recycling facility locations using open data.
+Web service that visualizes public recycling facility locations using open data.  
+Built with React and Leaflet.
 
 **Urban Tree Data Analysis**  
-A data analysis project exploring street tree information related to walkability and urban heat.
-
-**Portfolio Website**  
-A personal website to organize projects and track technical growth.
+Data analysis project exploring street tree data related to walkability and urban heat.  
+Includes spatial processing and visualization.
 
 ---
 
-### Currently learning
+### 📊 GitHub Stats
 
-- Practical machine learning  
-- Data-driven service design  
-- Better frontend architecture  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=default" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=default" height="150">
+</p>
 
 ---
 
-### Interests
+### 📫 Contact
 
-Urban data, smart city technologies, public services, and building useful digital tools.
+- Portfolio: (your portfolio link)
+- Blog: (your blog link)
+- Email: (your email)
