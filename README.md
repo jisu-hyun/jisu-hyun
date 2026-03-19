@@ -35,14 +35,12 @@ Includes spatial processing and visualization.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&theme=default" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_ID&layout=compact&theme=default" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=jisu-hyun&show_icons=true&theme=default" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jisu-hyun&layout=compact&theme=default" height="150">
 </p>
 
 ---
 
 ### 📫 Contact
 
-- Portfolio: (your portfolio link)
-- Blog: (your blog link)
-- Email: (your email)
+- Portfolio: https://hyunjisu-portfolio.pages.dev/
