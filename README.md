@@ -4,14 +4,6 @@
 Data-Driven Developer · Spatial Data · Web Services
 </p>
 
----
-
-### 👩‍💻 About Me
-
-I work on data analysis and web-based projects using urban and public datasets.  
-My focus is on building simple and practical data services that help understand real-world environments.
-
-I have experience working with spatial data, interactive maps, and data visualization tools.
 
 ---
 
