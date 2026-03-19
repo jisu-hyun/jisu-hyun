@@ -1,9 +1,5 @@
 <h1 align="center">Hi, I'm Jisu 👋</h1>
 
-<p align="center">
-Data-Driven Developer · Spatial Data · Web Services
-</p>
-
 
 ---
 
